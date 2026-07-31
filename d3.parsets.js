@@ -411,7 +411,7 @@
     };
 
     parsets.tooltip = function(_) {
-      if (!arguments.length) return tooltip;
+      if (!arguments.length) return tooltip_;
       tooltip_ = _ == null ? defaultTooltip : _;
       return parsets;
     };
