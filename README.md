@@ -2,6 +2,8 @@
 
 An interactive parallel sets visualisation for D3.js.
 
+Requires [D3](https://d3js.org/) v7. Load `d3.parsets.css` and `d3.parsets.js` after the D3 v7 script; see [demo/index.html](demo/index.html) for a working example.
+
 Example: <http://www.jasondavies.com/parallel-sets/>.
 
 ![Titanic Survivors](http://www.jasondavies.com/parallel-sets/parsets.png)
